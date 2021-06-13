@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @malamehta
 - 👀 I’m interested in designing and development of website.
 - 🌱 I’m currently learning fullstack web development using python.
+- skills--HTML,CSS,BOOTSTRAP,JAVASCRIPT,JQUERY,PYTHON,MYSQL
 - 
 - 
 
